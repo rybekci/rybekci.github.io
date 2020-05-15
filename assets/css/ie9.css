@@ -1,0 +1,33 @@
+/*
+	All Rights Reserved
+	Recep Yusuf Bekci's personal web site under the CCA 3.0 license. 
+	All photos are under copyright protection.
+*/
+
+/* Loader */
+
+	body.landing:before, body.landing:after {
+		display: none !important;
+	}
+
+/* Icon */
+
+	.icon.alt {
+		color: inherit !important;
+	}
+
+	.icon.major.alt:before {
+		color: #ffffff !important;
+	}
+
+/* Banner */
+
+	#banner:after {
+		background-color: rgba(23, 24, 32, 0.95);
+	}
+
+/* Footer */
+
+	#footer .icons .icon.alt:before {
+		color: #ffffff !important;
+	}
